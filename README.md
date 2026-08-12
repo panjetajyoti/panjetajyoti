@@ -1,8 +1,24 @@
+## Hi there 👋
+
+<!--
+**panjetajyoti/panjetajyoti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2E0854,50:6A0DAD,100:8A2BE2&height=220&section=header&text=Jyoti%20Panjeta&fontSize=55&fontColor=E6D9FF&animation=fadeIn&fontAlignY=38&desc=Data%20Analyst%20%7C%20SQL%20%7C%20Power%20BI%20%7C%20Python%20%7C%20Advanced%20Excel&descAlignY=55&descSize=17" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:2E0854,50:6A0DAD,100:8A2BE2&height=220&section=header&text=Jyoti%20Panjeta&fontSize=55&fontColor=E6D9FF&animation=twinkling&fontAlignY=38&desc=Data%20Analyst%20%7C%20SQL%20%7C%20Power%20BI%20%7C%20Python%20%7C%20Advanced%20Excel&descAlignY=55&descSize=17" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&width=650&lines=Data+Analyst+%7C+SQL+%2B+Power+BI+%2B+Python;Turning+Raw+Data+Into+Executive+Dashboards;RFM+Modeling+%7C+Financial+Variance+%7C+MIS+Reporting;Always+Learning%2C+Always+Building" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&width=650&lines=Data+Analyst+%7C+SQL+%2B+Power+BI+%2B+Python;Turning+Raw+Data+Into+Executive+Dashboards;RFM+Modeling+%7C+Financial+Variance+%7C+MIS+Reporting;Always+Learning%2C+Always+Building&shadow=true" alt="Typing SVG" />
 
 <br/>
 
@@ -255,6 +271,14 @@ Conducting online data processing, link-building metadata tracking, and director
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=panjetajyoti&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C9C9E4" height="165"/>
 
+</div>
+
+<br/>
+
+## 🟣 3D Contribution Graph
+
+<div align="center">
+<img src="https://raw.githubusercontent.com/panjetajyoti/panjetajyoti/main/profile-3d-contrib/profile-night-rainbow.svg" width="100%"/>
 </div>
 
 <br/>
