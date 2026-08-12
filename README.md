@@ -266,10 +266,10 @@ Conducting online data processing, link-building metadata tracking, and director
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=panjetajyoti&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=8A2BE2&text_color=C9C9E4" height="165"/>
+<img src="https://YOUR-VERCEL-INSTANCE.vercel.app/api?username=panjetajyoti&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=8A2BE2&text_color=C9C9E4" height="165"/>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=panjetajyoti&theme=tokyonight&hide_border=true&background=0D1117&ring=A78BFA&fire=8A2BE2&currStreakLabel=A78BFA" height="165"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=panjetajyoti&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C9C9E4" height="165"/>
+<img src="https://YOUR-VERCEL-INSTANCE.vercel.app/api/top-langs/?username=panjetajyoti&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C9C9E4" height="165"/>
 
 </div>
 
